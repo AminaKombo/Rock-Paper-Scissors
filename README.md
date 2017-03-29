@@ -3,7 +3,7 @@ Text-based Rock-Paper-Scissors game in Python
 
 
 <blockquote>
-    <p>You challenge Nosferatu to a RPS...</p>
+    <p>You challenge Nosferatu to a game of RPS...</p>
     <p>...with your blood as the prize.</p>
     <p>Whoever drains the other wins. You both have 10 pints.</p>
 </blockquote>
